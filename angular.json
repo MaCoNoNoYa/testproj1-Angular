@@ -117,8 +117,13 @@
               "devServerTarget": "testproj2:serve:production"
             }
           }
+        },
+        "deploy": {
+          "builder": "@angular/fire:deploy",
+          "options": {}
         }
       }
-    }},
+    }
+  },
   "defaultProject": "testproj2"
 }

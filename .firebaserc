@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "testproj2-e8cd4": {
+      "hosting": {
+        "testproj2": [
+          "testproj2-e8cd4"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "testproj2-e8cd4"
+  }
+}
